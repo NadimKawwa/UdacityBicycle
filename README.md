@@ -5,9 +5,9 @@
 
 This project requires **Python 2.7** and the following Python libraries installed:
 
-- (csv)[https://docs.python.org/2/library/csv.html]
-- (datetime)[https://docs.python.org/2/library/datetime.html]
-- (pprint)[https://docs.python.org/2/library/pprint.html]
+- [csv](https://docs.python.org/2/library/csv.html)
+- [datetime](https://docs.python.org/2/library/datetime.html)
+- [pprint](https://docs.python.org/2/library/pprint.html)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
